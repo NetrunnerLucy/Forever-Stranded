@@ -28,7 +28,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well things are looking a little less desperate. Maybe. Still, Without a stable food supply you wont last long. You can use a watering can to help grow crops."
+          "desc:8": "Well, things are looking a little less desperate... maybe. Still, without a stable food supply I won't last long.\nSurely a watering can is gonna help me grow crops?"
         }
       },
       "tasks:9": {
@@ -153,11 +153,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Heat Potion Read Description",
+          "name:8": "Heat Potion - Read Description",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "There is a known bug with heat potion. DO NOT use when you have a debuff \nUse them before you start burning up"
+          "desc:8": "There is a known bug with the heat potion. DO NOT use it when you already have a temperature debuff!\nUse them before you start burning up."
         }
       },
       "tasks:9": {
@@ -211,7 +211,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now I have utensils i can make some diffrent food lets start with the basics"
+          "desc:8": "Now that I have utensils I can make some proper food. Let's start with the basics."
         }
       },
       "tasks:9": {
@@ -291,7 +291,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Need some help with the zombies that are getting on your nerves. Try one of these out"
+          "desc:8": "I need some help dealing with the zombies that are getting on my nerves. I'm going to try out one of these!"
         }
       },
       "tasks:9": {
@@ -376,7 +376,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Right, this is simple if you don\u0027t want to be stuck eating bits of monsters and worms of trees. Make some kitchen utensils"
+          "desc:8": "Right, I really don't want to be stuck eating bits of monsters and worms off of trees. I should make some kitchen utensils."
         }
       },
       "tasks:9": {
@@ -467,7 +467,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well seen as you need string there may be other uses for the infested leaves. Use shears on infested leaves"
+          "desc:8": "Well, the infested leaves gave me a lot of string but there may be another use for them.\nLet's gather some by using shears."
         }
       },
       "tasks:9": {
@@ -530,7 +530,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So the heat is really getting to you. There are such things as heating and cooling coils you know. These will need to be placed in a room with a door as they will not work outside in the open air"
+          "desc:8": "The heat is really getting to me. Thankfully, I found a way to craft cooling coils. These will need to be placed in a room with a door as they will not work outside in the open."
         }
       },
       "tasks:9": {
@@ -597,7 +597,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You may have noticed the lack of food on this planet. Well I have a temporary Solution. You aren\u0027t going to like it much, but given the only alternative is starving to death"
+          "desc:8": "There is a severe lack of food on this planet. Well, I have a temporary solution. It's not great, but given the only alternative is starving..."
         }
       },
       "tasks:9": {
@@ -694,7 +694,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Moving on from weird stews lets try for something more tasteful"
+          "desc:8": "I'm moving past these weird stews. Let's try something more tasteful."
         }
       },
       "tasks:9": {
@@ -806,7 +806,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well i have done it again crashed into another planet. Best go get the emergency supplies from the back of the shuttle"
+          "desc:8": "Well, I've done it again - crashing onto another planet. Best go get the emergency supplies from the back of the shuttle!"
         }
       },
       "tasks:9": {
@@ -910,7 +910,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Theres worms on these trees ewwwwww. But they may come in handy to eat mmmmmmmm "
+          "desc:8": "There are worms on these trees, gross. But they may come in handy to eat."
         }
       },
       "tasks:9": {
@@ -997,7 +997,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "I must improve my basic tools to speed things up. This desert heat is making things horrible to work in "
+          "desc:8": "I must improve my basic tools to speed things up. The heat in this desert is horrible to work under."
         }
       },
       "tasks:9": {
@@ -1101,7 +1101,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Moving on from the cooling coils. This machine will work in a lager area of effect. Will also need to be powered"
+          "desc:8": "I need to move on from the cooling coils. This machine will work in a lager area of effect. It will also need to be powered."
         }
       },
       "tasks:9": {
@@ -1200,7 +1200,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "We will need loads of samples from this world to take home "
+          "desc:8": "I will need tons of samples from this world to take home so they can be studied."
         }
       },
       "tasks:9": {
@@ -1276,7 +1276,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "If i put sapplings into a compost barrel i may be able to get more dirt"
+          "desc:8": "If I put saplings into a compost barrel I should be able to get more dirt."
         }
       },
       "tasks:9": {
@@ -1365,7 +1365,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Become rich with all the gold you can find"
+          "desc:8": "All this gold is making me feel rich."
         }
       },
       "tasks:9": {
@@ -1441,7 +1441,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "What it lacks in water this place makes up for in metals. We can start getting some serious infrastucture"
+          "desc:8": "What this place lacks in water it makes up for with metals. I can get started with building some serious infrastructure."
         }
       },
       "tasks:9": {
@@ -1547,7 +1547,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Iron from this planet seems stronger than the iron from earth"
+          "desc:8": "Iron from this planet seems stronger than iron from earth."
         }
       },
       "tasks:9": {
@@ -1639,7 +1639,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now that I have my supplies time to get wood an more sapplings. If I hammer this sand in the desert I get dust it may come of use"
+          "desc:8": "Now that I have my supplies it's time to get wood and more saplings. If I hammer the sand in this desert I get dust. It may come into use."
         }
       },
       "tasks:9": {
@@ -1730,12 +1730,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Moving things around",
+          "name:8": "Moving Things Around",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well with things starting to look up and getting more complicated, it is time to set up the plumbing "
+          "desc:8": "Well, with things starting to look up and getting more complicated, it is time to set up the plumbing. Let's-a go!"
         }
       },
       "tasks:9": {
@@ -1812,11 +1812,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Stars in there eyes",
+          "name:8": "Stars In Their Eyes",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Nether stars from a diffrent world"
+          "desc:8": "These are nether stars from a different world."
         }
       },
       "tasks:9": {
@@ -1920,7 +1920,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now I have these too. I wonder if they can be used for anything"
+          "desc:8": "Now I have these too. I wonder if they can be used for anything."
         }
       },
       "tasks:9": {
@@ -1980,7 +1980,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Bring home some bling"
+          "desc:8": "Bring home the bling."
         }
       },
       "tasks:9": {
@@ -2071,7 +2071,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Your need for water will grow but you remember another type of crucible"
+          "desc:8": "My need for water will grow. It's a good thing that I know about another type of crucible!"
         }
       },
       "tasks:9": {
@@ -2160,7 +2160,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Under all this sand there is sandstone. What would happen if that all vanished, would the world collapse unto itself"
+          "desc:8": "Beneath all this sand lies sandstone. What would happen if all of it vanished, I wonder? Would the world collapse?"
         }
       },
       "tasks:9": {
@@ -2244,7 +2244,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Seems like silkworms make ice cubes to keep themselves cool in this hot environment an slime ewwwwww"
+          "desc:8": "It seems like silkworms form ice cubes to keep themselves cool in this hot environment. They also secrete slime, ew."
         }
       },
       "tasks:9": {
@@ -2319,7 +2319,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Take the sand out of your pockets we need it for samples"
+          "desc:8": "There's a lot of sand in my pockets. I should sample it."
         }
       },
       "tasks:9": {
@@ -2390,12 +2390,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Tools of the Trade",
+          "name:8": "Tools Of The Trade",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now I have the tables to make all my tools. I can make weapons and tools that will help me"
+          "desc:8": "With these tables I can finally craft weapons and tools that will help me survive."
         }
       },
       "tasks:9": {
@@ -2479,7 +2479,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well they grow diffrent?"
+          "desc:8": "Will these grow differently than the ones I am used to?"
         }
       },
       "tasks:9": {
@@ -2571,7 +2571,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Good things may come from this"
+          "desc:8": "Good things may come from this."
         }
       },
       "tasks:9": {
@@ -2699,7 +2699,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The crucible can be used for many things. "
+          "desc:8": "The crucible can be used for many things."
         }
       },
       "tasks:9": {
@@ -2771,7 +2771,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "I like blue"
+          "desc:8": "I like the color blue."
         }
       },
       "tasks:9": {
@@ -2862,7 +2862,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "For your horse, of course"
+          "desc:8": "For my horse, of course."
         }
       },
       "tasks:9": {
@@ -2926,7 +2926,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well someone has to do the dirty jobs"
+          "desc:8": "Well, someone has to do the dirty job."
         }
       },
       "tasks:9": {
@@ -3030,7 +3030,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Steak, leather and milk. Soo many good things from one animal."
+          "desc:8": "Beef, leather and milk. So many good things from just one animal!"
         }
       },
       "tasks:9": {
@@ -3111,11 +3111,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Some Heat Protection",
+          "name:8": "Heat Protection",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "This armor will offer a small amount of heat protection"
+          "desc:8": "This armor will offer me a small amount of heat protection."
         }
       },
       "tasks:9": {
@@ -3223,7 +3223,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Companionship and protection on your adventures."
+          "desc:8": "Companionship and protection during my adventures.\nWho let the dogs out?"
         }
       },
       "tasks:9": {
@@ -3298,7 +3298,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You may have noticed a complete lack of native life on this planet, outside of the hostile monsters. Luckily I have a solution. If provided the correct ingredients I can create the animals you want. These quests are repeatable"
+          "desc:8": "I have noticed a complete lack of native life on this planet - apart from the hostile monsters. Luckily there is a solution. If provided the correct ingredients the ship's transmutation module can create the animals I want.\n(These quests are repeatable.)"
         }
       },
       "tasks:9": {
@@ -3372,7 +3372,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "For those who prefer felines over canines "
+          "desc:8": "Do you prefer felines over canines?"
         }
       },
       "tasks:9": {
@@ -3446,7 +3446,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Stop horsing around"
+          "desc:8": "Stop horsing around!"
         }
       },
       "tasks:9": {
@@ -3521,7 +3521,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Bling for your horse. Excessive, maybe?"
+          "desc:8": "Bling for my horse. Excessive, maybe?"
         }
       },
       "tasks:9": {
@@ -3596,7 +3596,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Wool and mutton"
+          "desc:8": "Wool and mutton."
         }
       },
       "tasks:9": {
@@ -3676,7 +3676,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Dumb as rocks, but could be useful"
+          "desc:8": "They are dumb as rocks but could become useful."
         }
       },
       "tasks:9": {
@@ -3750,7 +3750,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Kevin Bacon"
+          "desc:8": "Kevin Bacon."
         }
       },
       "tasks:9": {
@@ -3820,12 +3820,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Need More Health",
+          "name:8": "More Health",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You may have noticed you only have half health lets fix that"
+          "desc:8": "I have noticed that I am missing some hearts."
         }
       },
       "tasks:9": {
@@ -3970,7 +3970,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The lathe will help you make machine rods. This is a multiblock made up of 7 blocks. Use the Holo-Projector to help you build it"
+          "desc:8": "The lathe will help me make machine rods. It is a multiblock made up of 7 blocks. I should use the Holo-Projector to help me build it."
         }
       },
       "tasks:9": {
@@ -4060,7 +4060,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "To move Items Around your AE2 system you will need to import an export them "
+          "desc:8": "If I want to move items around my AE2 system I will need to import and export them."
         }
       },
       "tasks:9": {
@@ -4148,7 +4148,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Ships will require fuel and launch area."
+          "desc:8": "Ships will require fuel and a launch area."
         }
       },
       "tasks:9": {
@@ -4252,11 +4252,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "The Control Centre",
+          "name:8": "The Control Center",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Getting more advanced into AE2 you will need the main controller"
+          "desc:8": "If I am advancing into AE2 I will need the main controller."
         }
       },
       "tasks:9": {
@@ -4332,7 +4332,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "This is the key to advance within Rocketry"
+          "desc:8": "This is the key to advance with Rocketry."
         }
       },
       "tasks:9": {
@@ -4433,7 +4433,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Back to vanilla. So, to get your first plates you will need a small plate presser and obsidian. Place obsidian in the ground then keep a one block gap with the presser above and use a lever to activate. To make plates place a block under the presser (9 ingots made into a block) Will only press basic plates "
+          "desc:8": "To get my first plates I will need a small plate presser and obsidian. I should place the obsidian on the ground then keep a one block gap with the presser above it and use a lever to activate it. To make plates I can place a block under the presser (9 ingots made into a block). This will only press basic plates."
         }
       },
       "tasks:9": {
@@ -4522,7 +4522,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well its time to start getting things done automatically"
+          "desc:8": "It's time to start getting things done automatically."
         }
       },
       "tasks:9": {
@@ -4616,7 +4616,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Procing steel ingots on a large scale and silicon"
+          "desc:8": "With this I will be able to produce steel ingots and silicon on a large scale."
         }
       },
       "tasks:9": {
@@ -4707,7 +4707,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Making silicon boule is needed for wafers. This then will need a cutting machine"
+          "desc:8": "Silicon boule is required for wafers. Additionally, I will need a cutting machine."
         }
       },
       "tasks:9": {
@@ -4821,7 +4821,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The rolling machine will help produce plates at a much faster pace than the presser."
+          "desc:8": "The rolling machine will produce plates at a much faster pace than the presser."
         }
       },
       "tasks:9": {
@@ -4930,7 +4930,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Now that you have boule. You will need to cut them up to make wafers that will be used for later"
+          "desc:8": "Now that I have the boule I will need to cut them up to make wafers, which will be used later."
         }
       },
       "tasks:9": {
@@ -5044,7 +5044,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "I wonder where all the power is going. Some machines will let you see the usage of power"
+          "desc:8": "I wonder where all the power is going. It's a good thing that some machines will let me see the usage of power when I connect them to the circuit!"
         }
       },
       "tasks:9": {
@@ -5131,7 +5131,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So now you have a good amount of power. You will want to store that up just in case of power cuts and such "
+          "desc:8": "Now that I have a good amount of power I should work on energy storage - just in case of power cuts and such."
         }
       },
       "tasks:9": {
@@ -5196,12 +5196,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Alloys An Crusher",
+          "name:8": "Alloys And Crusher",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Some dust will require you to crush them down into dust form. Other Items you may need to combine them they can be all done with 2 simple machines"
+          "desc:8": "Some items will require me to crush them first. Others may need to be combined to get what I want.\nThis can be all done with two simple machines."
         }
       },
       "tasks:9": {
@@ -5287,7 +5287,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Upgrade your wooden generator to stone"
+          "desc:8": "I should upgrade my wooden generator to a stone one."
         }
       },
       "tasks:9": {
@@ -5348,7 +5348,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Giving life to your AE2 setup will be the first task it needs power there is a way"
+          "desc:8": "Giving life to my AE2 setup will be the first task. It needs power - and I think I figured out how I'm going to supply it."
         }
       },
       "tasks:9": {
@@ -5420,7 +5420,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Upgrade your stone generator"
+          "desc:8": "I should upgrade my stone generator."
         }
       },
       "tasks:9": {
@@ -5481,7 +5481,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "There will be some alloys you will use a lot of lets see if you can make them"
+          "desc:8": "There are some alloys which I will use a lot. Let's see if I can make them."
         }
       },
       "tasks:9": {
@@ -5558,11 +5558,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Error Unkown Origin",
+          "name:8": "Error - Unkown Origin",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Long range scanners have detected an unknown origin when entering the planet atmosphere. Please investigate "
+          "desc:8": "The ship's long range scanners have detected an unknown origin when entering the planet's atmosphere.\nI should investigate this as soon as possible."
         }
       },
       "tasks:9": {
@@ -5608,7 +5608,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So moving on. You may have managed to get this far with maybe a few hiccups along the way. Now is the time to start the technology that may save your life for the long run. Let’s see if you can craft the basic tech items first"
+          "desc:8": "I managed to make it this far with only a few hiccups along the way. Now is the time to start the technology that may save my life in the long run.\nLet’s begin by crafting the basic tech items first."
         }
       },
       "tasks:9": {
@@ -5699,7 +5699,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "There are 4 main items that you will need to start AE2. 3 starts from a seed that sits in water. One that takes 3 items thrown together in water"
+          "desc:8": "There are four main items that I will need to start AE2. Three of them start from seeds that grow in water. The last one needs three items being thrown together in water."
         }
       },
       "tasks:9": {
@@ -5805,12 +5805,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Slice \u0027n\u0027 Splice",
+          "name:8": "Slice 'n' Splice",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Many items can be improved to make them better for more advanced machines "
+          "desc:8": "Many items can be improved so they can be used in more advanced machines."
         }
       },
       "tasks:9": {
@@ -5908,7 +5908,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "To complete the quests here you will need this block"
+          "desc:8": "To complete the quests here I will need this station."
         }
       },
       "tasks:9": {
@@ -5956,7 +5956,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well good offence is a good defence. Let\u0027s try and stop these monsters getting to you"
+          "desc:8": "Well, they say the best defence is a good offense. Let's try and stop these monsters from getting to me."
         }
       },
       "tasks:9": {
@@ -6049,7 +6049,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Theres not just AE2 who can do these things you know "
+          "desc:8": "There's not just AE2 that can do these things."
         }
       },
       "tasks:9": {
@@ -6128,7 +6128,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Sick of clicking all those crops. Well now theres an auto farm. Make those long days out in the fields so easy just by one simple block."
+          "desc:8": "I'm sick of harvesting all those crops by myself. Thankfully, I can replace the hard work out on the fields very easily with this one simple block."
         }
       },
       "tasks:9": {
@@ -6238,12 +6238,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Basic AE",
+          "name:8": "Basic AE2",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well your AE2 system needs to start somewhere."
+          "desc:8": "Well, my AE2 system needs to start somewhere."
         }
       },
       "tasks:9": {
@@ -6321,7 +6321,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well this will be the last Modifier you will need"
+          "desc:8": "Well, this is going to be one of the last modifiers I will need."
         }
       },
       "tasks:9": {
@@ -6423,7 +6423,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No longer running back and forth. It\u0027s all here is one hand on the go"
+          "desc:8": "I can finally stop running back and forth. It's all here in my hand, to-go."
         }
       },
       "tasks:9": {
@@ -6578,7 +6578,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Want even more power have loads of machines that take to much. Well steam is your friend"
+          "desc:8": "I want even more power. There are loads of machines that consume too much. Steam is going to help me."
         }
       },
       "tasks:9": {
@@ -6698,7 +6698,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "The breath of the dragon can be made with enderman and a shiny star."
+          "desc:8": "The breath of the dragon can be made with enderpearls and a shiny star."
         }
       },
       "tasks:9": {
@@ -6771,7 +6771,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "With big power comes great..... Now with big power you can make certain all your machines are running non stop"
+          "desc:8": "With great power comes great responsibility... Now with BIG power I can make certain that all of my machines are running non-stop."
         }
       },
       "tasks:9": {
@@ -6873,7 +6873,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Find a planet that is like Earth. You have traveled far, from having nothing to space travel.\nYou have done well to get this far now its time to rest an take it easy on your new home planet. Well done "
+          "desc:8": "I'm going to find a planet that is like Earth. I have come far, starting with nothing but sand until even space travel became possible.\nNow it's time to rest and take it easy on my new home planet. Well done!"
         }
       },
       "tasks:9": {
@@ -6958,7 +6958,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You may need to learn some of the multi blocks. This book will guide you"
+          "desc:8": "I might need to learn how to build some of the multiblock structures. This book will guide me."
         }
       },
       "tasks:9": {
@@ -7040,7 +7040,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You will need this tool for most jobs"
+          "desc:8": "This tool is useful for most jobs."
         }
       },
       "tasks:9": {
@@ -7109,7 +7109,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Going long distance is hard on the body. Maybe making the regulator portable will help you on your travels"
+          "desc:8": "Traveling long distances is putting a toll on my body, especially under these temperatures.\nMaking the regulator portable will help me on my travels."
         }
       },
       "tasks:9": {
@@ -7214,12 +7214,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Simple yet Effective",
+          "name:8": "Simple Yet Effective",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So now we got some tech. We can make simple yet effective generators"
+          "desc:8": "Now that I have some tech I can make simple yet effective generators."
         }
       },
       "tasks:9": {
@@ -7319,11 +7319,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Early weapon",
+          "name:8": "Early Weapon",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Get some offence "
+          "desc:8": "I should get some offense."
         }
       },
       "tasks:9": {
@@ -7378,11 +7378,11 @@
           "repeatTime:3": 0,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Quest an Loot reward update",
+          "name:8": "Quest And Loot Reward Update",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Click the complete button if you have updated your modpack"
+          "desc:8": "Click the complete button once the modpack has been updated!"
         }
       },
       "tasks:9": {
@@ -7435,7 +7435,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So if you have had a look through the manual. You will need a few things to start"
+          "desc:8": "The manual is full with instructions. I will need a few things to start."
         }
       },
       "tasks:9": {
@@ -7512,7 +7512,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Wyvren Helm",
+          "name:8": "Wyvern Helmet",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -7586,7 +7586,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So with the water you are gathering it may come in handy to make some power. Very basic power"
+          "desc:8": "With the water I have been gathering I could make some power. Very basic power."
         }
       },
       "tasks:9": {
@@ -7645,7 +7645,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Wyvren Chestplate",
+          "name:8": "Wyvern Chestplate",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -7713,7 +7713,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Maybe there is still a little bit of room for another Mod. You may need to defeat a boss for this one"
+          "desc:8": "Maybe there is still a little bit of room for another modification. Something tells me I may need to defeat a boss for this one."
         }
       },
       "tasks:9": {
@@ -7826,7 +7826,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Wyvren Leggins",
+          "name:8": "Wyvern Leggings",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -7894,7 +7894,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "There is still room for improvment"
+          "desc:8": "There is always room for improvement!"
         }
       },
       "tasks:9": {
@@ -7977,7 +7977,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Wyvren Boots",
+          "name:8": "Wyvern Boots",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -8045,7 +8045,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Hmmm I have a lot of things some of it will need protection from them creepers they do seems to blow up a lot"
+          "desc:8": "Hm, I have a lot of things. Some of it will need protection from creepers. They do seem to blow up a lot."
         }
       },
       "tasks:9": {
@@ -8116,12 +8116,12 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Keeping it Together",
+          "name:8": "Keeping It Together",
           "isGlobal:8": "false",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well all these tools need a place to go, dont they"
+          "desc:8": "Well, all these tools need a place to go, don't they?"
         }
       },
       "tasks:9": {
@@ -8195,7 +8195,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Draconic Helm",
+          "name:8": "Draconic Helmet",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -8263,7 +8263,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Well with the weather been the way it is i may as well use it to my advantage "
+          "desc:8": "With the weather being the way it is I may as well use it to my advantage."
         }
       },
       "tasks:9": {
@@ -8324,7 +8324,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Plenty of wood you may be able to make some basic RF from it"
+          "desc:8": "There is plenty of wood. I may be able to make some basic RF from it."
         }
       },
       "tasks:9": {
@@ -8388,7 +8388,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "You may have forgotten the recopies for the Tinkers Smeltery. You may have to explore around to see if you can find them on this planet "
+          "desc:8": "...I may have forgotten how to build the Tinkers' Smeltery.\nI have to explore the area to see if I can find parts of it on this planet."
         }
       },
       "tasks:9": {
@@ -8590,7 +8590,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Yes there are some epic weapons that can be built. Try not to have too much fun"
+          "desc:8": "Yes, there are some epic weapons that can be built. I better be careful what I use them for."
         }
       },
       "tasks:9": {
@@ -8658,7 +8658,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Draconic Leggins",
+          "name:8": "Draconic Leggings",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -8765,7 +8765,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Upgrade your tools"
+          "desc:8": "Upgrading my tools."
         }
       },
       "tasks:9": {
@@ -8928,7 +8928,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "So you have ran out of modifiers well that can be fixed with some simple upgrades"
+          "desc:8": "I ran out of modifiers. Nothing that couldn't be fixed with some simple upgrades!"
         }
       },
       "tasks:9": {
@@ -9013,7 +9013,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Moving up in the world lets move on to more tech power"
+          "desc:8": "I'm moving up in the world. Let's move on to more tech power."
         }
       },
       "tasks:9": {
@@ -9152,7 +9152,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Pickaxe Of The Wyvren",
+          "name:8": "Pickaxe Of The Wyvern",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -9226,7 +9226,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Sword Of The Wyvren",
+          "name:8": "Sword Of The Wyvern",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -9297,7 +9297,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Bow Of The Wyvren",
+          "name:8": "Bow Of The Wyvern",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -9503,7 +9503,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Fusion crafting is done mostly through Draconic evoluton"
+          "desc:8": "Fusion crafting is done mostly through Draconic Evolution."
         }
       },
       "tasks:9": {
@@ -9651,7 +9651,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Craft some quartz"
+          "desc:8": "I should make some certus quartz seeds and throw them into water."
         }
       },
       "tasks:9": {
@@ -9717,7 +9717,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "To get charged you can make a charger or void mine"
+          "desc:8": "To get charged crystals I could build a charger or void ore miner."
         }
       },
       "tasks:9": {
@@ -9918,7 +9918,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Charge them up"
+          "desc:8": "Charge 'em up!"
         }
       },
       "tasks:9": {
@@ -9981,7 +9981,7 @@
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "Travel east, on entry sensors picked up a large crashed object."
+          "desc:8": "I should travel east, the ship's sensors picked up a large object before I crashed."
         }
       },
       "tasks:9": {
@@ -10015,7 +10015,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Sword of the Cosmos",
+          "name:8": "Sword Of The Cosmos",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -10085,7 +10085,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Longbow of the Heavens",
+          "name:8": "Longbow Of The Heavens",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -10316,7 +10316,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Nature\u0027s Ruin",
+          "name:8": "Nature's Ruin",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -10531,7 +10531,7 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "Infinity leggings",
+          "name:8": "Infinity Leggings",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
@@ -10821,7 +10821,7 @@
           "name:8": "Basic Survival",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Learning to survive this world from the sand to tech"
+          "desc:8": "Learning to survive on this planet - from sand to technology."
         }
       },
       "order:3": 1
@@ -10964,10 +10964,10 @@
       "lineID:3": 1,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Tink a Pow",
+          "name:8": "Tink-a-Pow",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Well lets get some power going an upgrade my tools to the max"
+          "desc:8": "Let's get some power going and upgrade my tools to the max!"
         }
       },
       "order:3": 2
@@ -11125,7 +11125,7 @@
           "name:8": "Technological Revolution",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Have you now got what it takes to move through the tech tree lets find out"
+          "desc:8": "Will I keep my cool while navigating through the tech tree? Let's find out."
         }
       },
       "order:3": 3
@@ -11193,7 +11193,7 @@
           "name:8": "Moving Worlds",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Time to leave the planet an find a new place to call home for now"
+          "desc:8": "It's time to leave the planet and find a new place to call home."
         }
       },
       "order:3": 4
@@ -11285,7 +11285,7 @@
           "name:8": "Creating Life",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Well this place is a bit boring without my fav animals :("
+          "desc:8": "This place is a bit boring without my favorite animals.\n:("
         }
       },
       "order:3": 5
@@ -11365,7 +11365,7 @@
           "name:8": "Collector",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Well the time has come to take some samples from this world "
+          "desc:8": "It's time to take some samples from this world."
         }
       },
       "order:3": 7
@@ -11382,10 +11382,10 @@
       "lineID:3": 6,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Updates Quests",
+          "name:8": "Quest Updates",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Please use this quest line to update your quests when you update the pack"
+          "desc:8": "Please use this quest line to update your quests once you updated the pack!"
         }
       },
       "order:3": 0
@@ -11546,7 +11546,7 @@
       "lineID:3": 7,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "Over powered",
+          "name:8": "Overpowered",
           "bg_image:8": "",
           "bg_size:3": 256,
           "desc:8": "Power Armour"
